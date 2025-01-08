@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maheen Sheikh</h1>
 <h3 align="center">A Highly motivated and enthusiastic learner</h3>
 
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.freepik.com/premium-photo/person-coding-project-laptop_1079150-36836.jpg" alt="" height="400" width="700" /></a> </p>
+
 - 🔭 I’m interested in **web development, AI, and Technology.**
 
 - 👯 I’m looking to collaborate on **open-source projects related to frontend development**
