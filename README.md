@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maheen Sheikh</h1>
 <h3 align="center">A Highly motivated and enthusiastic learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishk-maheen&label=Profile%20views&color=0e75b6&style=flat" alt="ishk-maheen" /> </p>
-
 - 🔭 I’m interested in **web development, AI, and Technology.**
 
 - 👯 I’m looking to collaborate on **open-source projects related to frontend development**
